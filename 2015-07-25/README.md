@@ -1,12 +1,11 @@
 # Event details
 ==================================================
-Time: 25 July 2015, 1:30pm - 5:00pm
-Location: Hurstville Entertainment Centre, MacMahon Street, Hurstville.
-Function room: Amaroo
+- Time: 25 July 2015, 1:30pm - 5:00pm
+- Location: Hurstville Entertainment Centre, MacMahon Street, Hurstville.
+- Function room: Amaroo
 
 
 # Speakers && Topics
---------------------------------------
 
 DevOps ---- Jack Tan
 --------------------------------------
@@ -21,7 +20,7 @@ DevOps ---- Jack Tan
 
 求职技巧探讨 ---- Ling Yi
 --------------------------------------
-
+(ppt 暂时空缺，请补充)
 
 Internet of Things ---- Jeff Chen
 --------------------------------------
@@ -30,6 +29,8 @@ Internet of Things ---- Jeff Chen
 
 相关职位推荐及分析 
 --------------------------------------
+(ppt 暂时空缺，请补充)
+
 - M2 --- Ling Yi 
   Sales at Dodo
 
@@ -43,7 +44,7 @@ Java 8 and beyond ---- Eric Li
 --------------------------------------
 (ppt 暂时空缺，请补充)
 
-- [Eric li linkedin] https://au.linkedin.com/pub/eric-li/27/929/838
+- [Eric li linkedin](https://au.linkedin.com/pub/eric-li/27/929/838)
 
 介绍ACEIA和K-Evolution 长期合作的计划 ---- Ken
 --------------------------------------
