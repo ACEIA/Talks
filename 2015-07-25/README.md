@@ -37,7 +37,7 @@ Internet of Things ---- Jeff Chen
   - Job opportunity--- Front-end developer at Optus
 
 - CBA --- LNG
-  -Job opportunity--- Business analyst  at CBA
+  - Job opportunity--- Business analyst  at CBA
 
 Java 8 and beyond ---- Eric Li
 --------------------------------------
