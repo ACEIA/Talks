@@ -31,13 +31,13 @@ Internet of Things ---- Jeff Chen
 (ppt 暂时空缺，请补充)
 
 - M2 --- Ling Yi 
-  -- Sales at Dodo
+  - Job opportunity--- Sales at Dodo
 
 - Optus --- Raymond
-  -- Business analyst  at CBA
+  - Job opportunity--- Front-end developer at Optus
 
 - CBA --- LNG
-   -- Front-end developer at Optus
+  -Job opportunity--- Business analyst  at CBA
 
 Java 8 and beyond ---- Eric Li
 --------------------------------------
