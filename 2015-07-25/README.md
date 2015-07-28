@@ -1,5 +1,4 @@
 # Event details
-==================================================
 - Time: 25 July 2015, 1:30pm - 5:00pm
 - Location: Hurstville Entertainment Centre, MacMahon Street, Hurstville.
 - Function room: Amaroo
@@ -9,14 +8,14 @@
 
 DevOps ---- Jack Tan
 --------------------------------------
-- **什么是DevOps**
-- **开发和运维的隔阂**
-- **为什么要DevOps人**
-- **DevOps人市场需求**
-- **如何成为DevOps人**
-- **DevOps人能力和技能**
-- **DevOps 和 云**
-- **DevOps人的未来**
+- 什么是DevOps
+- 开发和运维的隔阂
+- 为什么要DevOps人
+- DevOps人市场需求
+- 如何成为DevOps人
+- DevOps人能力和技能
+- DevOps 和 云
+- DevOps人的未来
 
 求职技巧探讨 ---- Ling Yi
 --------------------------------------
